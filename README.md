@@ -270,7 +270,7 @@ AVERAGE(Orders[Delivery Time])
 *(Add screenshot here)*
 
 ### Vehicles Overview
-*(Screenshot 2026-03-03 112612.png)*
+!(Screenshot 2026-03-03 112612.png)
 
 ---
 
