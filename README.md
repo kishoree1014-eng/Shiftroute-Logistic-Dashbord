@@ -296,12 +296,6 @@ Possible enhancements include:
 
 ---
 
-# 🙌 Acknowledgements
-
-Special thanks to my **mentor/instructor** for guidance and support in learning **Power BI, data modeling, and dashboard development** which helped bring this project to life.
-
----
-
 # 📬 Connect With Me
 
 If you like this project or want to collaborate, feel free to connect with me on **LinkedIn** -www.linkedin.com/in/kishoree23.
