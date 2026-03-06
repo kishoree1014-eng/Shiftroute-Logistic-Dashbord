@@ -261,13 +261,13 @@ AVERAGE(Orders[Delivery Time])
 # 📷 Dashboard Preview
 
 ### Executive Dashboard
-**
+![Executive Dashboard](Dashboard-sh.png)
 
 ### Drivers Overview
-*(Add screenshot here)*
+![Drivers Overview](Drivers-sh.png)
 
 ### Hubs Overview
-*(Add screenshot here)*
+![Hubs Overview](Hubs-sh.png)
 
 ### Vehicles Overview
 ![Vehicles Overview](Vehicles-Sh.png)
@@ -304,7 +304,7 @@ Special thanks to my **mentor/instructor** for guidance and support in learning 
 
 # 📬 Connect With Me
 
-If you like this project or want to collaborate, feel free to connect with me on **LinkedIn**.
+If you like this project or want to collaborate, feel free to connect with me on **LinkedIn** -www.linkedin.com/in/kishoree23.
 
 ---
 
