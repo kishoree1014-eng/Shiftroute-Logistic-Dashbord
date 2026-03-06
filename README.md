@@ -270,7 +270,7 @@ AVERAGE(Orders[Delivery Time])
 *(Add screenshot here)*
 
 ### Vehicles Overview
-![Vehicles Overview]([Screenshot 2026-03-03 112612.png](https://github.com/kishoree1014-eng/Shiftroute-Logistic-Dashbord/blob/main/Screenshot%202026-03-03%20112612.png?raw=true))
+![Vehicles Overview](Vehicles-Sh.png)
 
 ---
 
